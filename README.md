@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **react, solidity, blockchain, leetcode, problem-solving**
 
-- 📫 How to reach me **vruddhi.tolia@gmail.com**
+- 📫 How to reach me **vruddhi.tolia2001@gmail.com**
 
 - ⚡ Fun fact **I think I am beauty with brains**
 
