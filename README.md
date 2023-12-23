@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Blockchain**
+- 🔭 I’m currently working as **Backend Developer**
 
-- 🌱 I’m currently learning **ReactJs, ThreeJs**
+- 🌱 I’m currently learning **ReactJs**
 
-- 👯 I’m looking to collaborate on **Opensource Web3 Projects**
+- 👯 I’m looking to collaborate on **Opensource Projects**
 
 - 🤝 I’m looking for help with **Warranty System**
 
-- 💬 Ask me about **react, solidity, blockchain, leetcode, problem-solving**
+- 💬 Ask me about **Node JS, leetcode, problem-solving**
 
 - 📫 How to reach me **vruddhi.tolia2001@gmail.com**
 
